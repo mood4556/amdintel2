@@ -1,2 +1,2 @@
 # amdintel2
-update
+My WED site: https://mood4556.github.io/amdintel2/
